@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinicius Pescumo! 👋
 
-Sou um desenvolvedor em formação focado em criar soluções eficientes usando JavaScript e Node.js. Gosto de resolver problemas de lógica e estruturar APIs.
+Sou um desenvolvedor em formação focado em criar soluções eficientes usando JavaScript e Node.js e Python. Gosto de resolver problemas de lógica e estruturar APIs.
 
 ---
 
