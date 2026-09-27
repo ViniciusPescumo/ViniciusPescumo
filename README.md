@@ -13,7 +13,6 @@ Sou um desenvolvedor focado em criar soluções eficientes usando Python. Gosto 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 📈 O que estou estudando no momento?
 
 - [ ] Aperfeiçoando conceitos de APIs
 - [ ] Modelagem de bancos de dados relacionais (PostgreSQL, SQLserver)
