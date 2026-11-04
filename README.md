@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinicius Pescumo! 👋
 
-Sou um desenvolvedor focado em criar soluções eficientes usando Python. Gosto de resolver problemas de lógica e estruturar APIs.
+Sou um desenvolvedor Python. Focado em lógica e estruturar APIs.
 
 ---
 
