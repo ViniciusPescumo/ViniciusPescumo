@@ -20,6 +20,3 @@ Sou um desenvolvedor Python. Focado em lógica e estruturar APIs.
 - [ ] Boas práticas de arquitetura de software
 
 ---
-
-### 🤝 Vamos nos conectar?
-
