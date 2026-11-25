@@ -23,6 +23,3 @@ Sou um desenvolvedor Python. Focado em lógica e estruturar APIs.
 
 ### 🤝 Vamos nos conectar?
 
-Se quiser trocar uma ideia sobre programação ou acompanhar meus projetos, você pode me encontrar aqui:
-
-linkedin.com/in/vinicius-pescumo-b82601391
